@@ -337,6 +337,8 @@ Possíveis evoluções:
 Projeto desenvolvido por estudantes de Tecnologia da Informação com foco em desenvolvimento Full Stack, UX/UI e boas práticas de engenharia de software.
 
 Feito com dedicação, café e muito debug ☕🔥
+
+
 integrantes:
 Pedro Flores
 Joaquim Barbosa
