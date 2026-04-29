@@ -341,9 +341,13 @@ Feito com dedicação, café e muito debug ☕🔥
 
 integrantes:
 Pedro Flores
+
 Joaquim Barbosa
+
 Gabriel Bandasz
+
 Gabriel Sandes
+
 Lucas Matheus
 ---
 
