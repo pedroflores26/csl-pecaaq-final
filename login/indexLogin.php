@@ -16,7 +16,7 @@
     <div class="login-visual__overlay"></div>
     <div class="login-visual__content">
       <a href="../LandingPage/indexLandingPage.php" class="visual-logo">
-        <img src="imgLogin/LogoPecaAq4.png" alt="PeçaAQ">
+        <img src="../includes/logo1.png" alt="PeçaAQ">
         <span>PEÇA<em>AQ</em></span>
       </a>
       <blockquote class="visual-quote">
